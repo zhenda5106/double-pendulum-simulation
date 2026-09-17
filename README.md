@@ -2,6 +2,8 @@
 
 > A computational exploration of nonlinear dynamics and chaotic motion using the double pendulum.
 
+**Development:** AI-assisted · Vibe-coded with Codex
+
 ## Overview
 
 This student project models two point masses joined by massless rigid rods in a vertical plane. A fixed pivot, uniform gravity, and the absence of friction make the ideal system conservative. Its equations are deterministic, yet some initial conditions lead to motion that is highly sensitive to small perturbations. Not every double-pendulum trajectory is chaotic.
@@ -196,6 +198,10 @@ Run `python verify.py` to check equilibrium, Cartesian geometry and energy, inst
 - Construct Poincaré sections.
 - Explore different mass and length ratios.
 - Add interactive initial-condition controls.
+
+## Development Note
+
+This project was developed using AI-assisted / vibe coding with Codex, which was used substantially for coding and implementation. I do not claim to have manually written every line of code. The project serves as a student exploration: I use it to run, study, and understand the underlying physics, numerical methods, nonlinear dynamics, and sensitivity to initial conditions.
 
 ## References
 
