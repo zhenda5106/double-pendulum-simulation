@@ -6,7 +6,7 @@
 
 ## Overview
 
-This student project models two point masses joined by massless rigid rods in a vertical plane. A fixed pivot, uniform gravity, and the absence of friction make the ideal system conservative. Its equations are deterministic, yet some initial conditions lead to motion that is highly sensitive to small perturbations. Not every double-pendulum trajectory is chaotic.
+This project models two point masses joined by massless rigid rods in a vertical plane. A fixed pivot, uniform gravity, and the absence of friction make the ideal system conservative. Its equations are deterministic, yet some initial conditions lead to motion that is highly sensitive to small perturbations. Not every double-pendulum trajectory is chaotic.
 
 The project keeps the physics, numerical experiment, and plotting in separate, readable Python modules. It is an undergraduate learning project, not a claim of formal research experience.
 
