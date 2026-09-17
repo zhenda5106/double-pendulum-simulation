@@ -1,0 +1,41 @@
+{
+  "parameters_SI": {
+    "m1": 1.0,
+    "m2": 1.0,
+    "L1": 1.0,
+    "L2": 1.0,
+    "g": 9.81
+  },
+  "initial_state_A_SI": [
+    2.0943951023931953,
+    0.0,
+    -0.17453292519943295,
+    0.0
+  ],
+  "initial_state_B_SI": [
+    2.0945696353183947,
+    0.0,
+    -0.17453292519943295,
+    0.0
+  ],
+  "perturbation_degrees": 0.01,
+  "duration_s": 30.0,
+  "requested_sample_spacing_s": 0.01,
+  "actual_sample_spacing_s": 0.01,
+  "samples": 3001,
+  "solver": "DOP853",
+  "rtol": 1e-10,
+  "atol": 1e-12,
+  "initial_energy_A_J": 0.1490359429502366,
+  "max_absolute_energy_drift_A_J": 4.527731256587231e-08,
+  "max_relative_energy_drift_A": 3.038012956444372e-07,
+  "max_relative_energy_drift_B": 3.0857745054451353e-07,
+  "initial_separation_m": 0.00017453292497792108,
+  "final_separation_m": 1.1597166184900298,
+  "maximum_separation_m": 3.1588910855547563,
+  "versions": {
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2",
+    "scipy": "1.18.1"
+  }
+}

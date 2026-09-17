@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+# Optional GIF export (static figures and numerical calculations do not use it directly).
+pillow
